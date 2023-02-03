@@ -1,5 +1,5 @@
 [versions]
-minigdx-mpp = "1.2.2"
+minigdx-mpp = "DEV-SNAPSHOT"
 
 [plugins]
 minigdx-mpp = { id = "com.github.minigdx.gradle.plugin.developer.mpp", version.ref = "minigdx-mpp" }
